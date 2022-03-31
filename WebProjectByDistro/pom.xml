@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.0.2.RELEASE</version>
+			<version>5.3.18</version>
 		</dependency>
 		
 		<!-- 커넥션풀, JDBC를 이용한 MySQL 연동을 위한 의존 추가 -->
